@@ -1,8 +1,10 @@
-package devandroid.hamilko.applistacurso1;
+package devandroid.hamilko.applistacurso1.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.hamilko.applistacurso1.R;
 
 public class MainActivity extends AppCompatActivity {
     @Override
